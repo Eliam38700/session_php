@@ -28,7 +28,7 @@
 			</div>
 
 			<div class="form-group">
-				<input type="submit" name="connexion" class="btn btn-primary" placeholder="username">
+				<input type="submit" name="connexion" class="btn btn-primary" value="me connecter" placeholder="username">
 			</div>
 		</form>
 	</div>
